@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RangeFlickr/static/css/main.ecb6127d.css",
-    "main.js": "/RangeFlickr/static/js/main.bba5e3ec.js",
+    "main.js": "/RangeFlickr/static/js/main.b5f9e8a0.js",
     "static/js/787.a85a46b5.chunk.js": "/RangeFlickr/static/js/787.a85a46b5.chunk.js",
     "index.html": "/RangeFlickr/index.html",
     "main.ecb6127d.css.map": "/RangeFlickr/static/css/main.ecb6127d.css.map",
-    "main.bba5e3ec.js.map": "/RangeFlickr/static/js/main.bba5e3ec.js.map",
+    "main.b5f9e8a0.js.map": "/RangeFlickr/static/js/main.b5f9e8a0.js.map",
     "787.a85a46b5.chunk.js.map": "/RangeFlickr/static/js/787.a85a46b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecb6127d.css",
-    "static/js/main.bba5e3ec.js"
+    "static/js/main.b5f9e8a0.js"
   ]
 }
